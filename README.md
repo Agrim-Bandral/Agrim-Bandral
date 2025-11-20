@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" alt="Agrim Bandral Banner" width="50%">
-</p>
+</p> -->
 
 # 👋 Hey there, I'm Agrim Bandral!
 
