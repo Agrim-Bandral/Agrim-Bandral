@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Agrim Bandral Banner" width="50%">
 </p> -->
 <p align="center">
-  <img src="/mnt/data/ChatGPT Image Nov 20, 2025, 07_31_56 PM.png" alt="Agrim Bandral Banner">
+  <img src="Agrim Bandral Banner" alt="Agrim Bandral Banner">
 </p>
 
 
