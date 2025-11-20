@@ -1,6 +1,58 @@
 <!-- <p align="center">
   <img src="banner.png" alt="Agrim Bandral Banner" width="50%">
 </p> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Agrim Bandral Banner</title>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background: #0D1B35; /* Dark GitHub-like navy */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-family: Arial, sans-serif;
+    }
+
+    .banner {
+        display: flex;
+        align-items: center;
+        gap: 40px;
+        color: white;
+    }
+
+    .name {
+        font-size: 70px;
+        line-height: 1.1;
+        font-weight: 800;
+        letter-spacing: 2px;
+    }
+
+    .logo {
+        width: 250px;
+    }
+</style>
+</head>
+<body>
+
+<div class="banner">
+    <!-- GitHub Octocat SVG -->
+    <svg class="logo" viewBox="0 0 16 16" fill="white" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54...Z"/>
+    </svg>
+
+    <div class="name">
+        AGRIM<br>BANDRAL
+    </div>
+</div>
+
+</body>
+</html>
+
 
 # 👋 Hey there, I'm Agrim Bandral!
 
