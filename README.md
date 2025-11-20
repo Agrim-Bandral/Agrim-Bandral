@@ -1,30 +1,68 @@
-Hi, I'm Agrim Bandral 👋
+👋 Welcome to My GitHub
 
-Welcome to my GitHub profile! I'm a developer who loves creating useful, clean, and meaningful software. I’m always exploring new technologies, improving my skills, and building projects that solve real problems.
+I’m Agrim Bandral, a software developer focused on building clean, scalable, and reliable products. I enjoy solving real-world problems with thoughtful engineering and continuously improving my technical abilities through hands-on projects.
 
-🚀 About Me
+🧩 About Me
 
-I enjoy turning ideas into working applications.
+I enjoy transforming concepts into production-ready, maintainable applications.
 
-Currently learning and improving in areas like modern web development, backend systems, and cloud technologies.
+Currently learning and advancing in modern web development, backend engineering, and cloud systems.
 
-Passionate about writing clean, maintainable code and learning new tools.
+I care deeply about code quality, architecture, and long-term maintainability.
 
-Always excited to collaborate and contribute to open-source projects.
+Open to collaboration, discussion, and contributing to impactful open-source initiatives.
 
-🔧 Technologies & Tools
+🛠️ Technical Expertise
+Languages
 
-I work with a variety of tools and technologies, including:
-JavaScript, Python, Java, React, Node.js, Express, MongoDB, Git, GitHub, Linux, and more.
+JavaScript • TypeScript • Python • Java
 
-📊 GitHub Activity
+Frontend Development
 
-I love contributing to projects, exploring new concepts, and experimenting with code. You’ll find a mix of personal projects, experiments, and learning repositories here.
+React • HTML5 • CSS • TailwindCSS
+
+Backend & Databases
+
+Node.js • Express.js • MongoDB • Firebase
+
+Tools & Platforms
+
+Git • GitHub • Linux • VS Code
+
+📌 Selected Projects
+🔹 Project 1 — (Your Highlighted Project Title)
+
+A brief, professional one-sentence summary of what it does and why it matters.
+Tech: React, Node.js, MongoDB
+Link: Add your GitHub link here.
+
+🔹 Project 2 — (Another Notable Project)
+
+A short description showing your problem-solving or design clarity.
+Tech: Express, Tailwind, Firebase
+Link: Add your GitHub link here.
+
+🔹 Project 3 — (Optional Third Project)
+
+Add a quick summary — keep it clean and impactful.
+Tech: Python, API Integration
+Link: Add your GitHub link here.
+
+📈 GitHub Activity & Stats
+
+I actively contribute to personal and learning-based projects, refining my skills while exploring new tools and architectural patterns.
+
+(Feel free to add your GitHub stats widgets here — they will render automatically in Markdown.)
 
 🌐 Connect With Me
 
-If you'd like to collaborate, discuss an idea, or just say hi, feel free to connect with me on LinkedIn or check out my portfolio.
+If you’d like to collaborate, discuss opportunities, or connect professionally:
 
-⭐ Thanks for Visiting!
+LinkedIn: Add your profile link
 
-If you find something interesting here, feel free to star a repository. Your support means a lot!
+Portfolio: Add your portfolio link
+
+⭐ Thank You for Visiting
+
+If any of my work interests you, feel free to star a repository.
+Your support genuinely means a lot and helps me grow as a developer
