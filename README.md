@@ -1,9 +1,9 @@
 <!-- <p align="center">
   <img src="banner.png" alt="Agrim Bandral Banner" width="50%">
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="Agrim Bandral Banner" alt="Agrim Bandral Banner">
-</p>
+</p> -->
 
 
 # 👋 Hey there, I'm Agrim Bandral!
