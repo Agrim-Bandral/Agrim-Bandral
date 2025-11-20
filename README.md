@@ -1,58 +1,57 @@
+<p align="center">
+  <img src="banner.png" alt="Agrim Bandral Banner" width="50%">
+</p>
 
-👋 Hi, I'm Agrim Bandral
+# 👋 Hey there, I'm Agrim Bandral!
 
-I’m a software engineer focused on building clean, scalable, and practical systems. My work blends curiosity, engineering discipline, and a strong focus on writing maintainable, well-structured code. I’m constantly learning, exploring new tools, and refining my understanding of system design and modern software practices.
+🎓 *First-Year B.Tech CSE Student*  
+💻 *Python Developer* | 🚀 *Tech Enthusiast* | ⚡ *Future Software Engineer*
 
-🧭 What I Do
+---
 
-Develop end-to-end solutions with clarity and maintainability in mind
+## 🧠 About Me
+- 🐍 Currently learning *Python* and exploring its real-world applications  
+- 🧩 Passionate about *automation, **web development, and **AI*  
+- 📚 Love solving problems and learning new technologies  
+- 💡 Goal: Build projects that actually help people  
+- 🎯 Always open to collaboration and learning from others  
 
-Explore modern technologies across frontend, backend, and cloud
+---
 
-Focus on writing reliable, readable, and well-designed code
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Enjoy solving real problems and understanding how systems behave
+--
+</div>
 
-Value simplicity, consistency, and thoughtful engineering decisions
+---
 
-🛠️ Technical Skillset
-Languages
+## 🚀 Currently Learning
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-JavaScript • TypeScript • Python • Java
+---
 
-Frontend
+## 📊 GitHub Stats
 
-React • HTML5 • CSS • TailwindCSS
+<div align="center">
 
-Backend & Databases
+[![Agrim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agrim-Bandral&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/agrim-bandral)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agrim-Bandral&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/agrim-bandral)
 
-Node.js • Express.js • MongoDB • Firebase
+</div>
 
-Tools & Platforms
+---
 
-Git • GitHub • Linux • VS Code
+## 🌐 Connect With Me
 
-🚀 Currently Building Myself In
+📧 *Email:* [agrimbandral662@gmail.com](mailto:agrimbandral662@gmail.com)  
+---
 
-Software architecture & system design
-
-Backend engineering & API design
-
-Clean code practices & maintainable patterns
-
-Scalable, production-minded development workflows
-
-📈 GitHub Overview
-
-I use GitHub to experiment, learn, and grow—whether that’s exploring new stacks, breaking down concepts, or working on foundational engineering skills.
-My profile represents active learning, iteration, and technical improvement.
-
-📬 Contact
-
-Feel free to reach out for collaboration, questions, or opportunities:
-
-📧 Email: agrimbandral662@gmail.com
-
-⭐ Thanks for Visiting
-
-If you find something interesting, feel free to star a repository — every bit of support helps and means a lo
+## 👀 Profile Visitors
+![Profile views](https://komarev.com/ghpvc/?username=Agrim-Bandral&color=blueviolet&style=for-the-badge)
