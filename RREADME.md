@@ -11,10 +11,10 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Your current project**  
-- 🌱 I’m learning **Tech you’re learning (e.g. React, Node.js, ML, DevOps)**  
-- 💬 Ask me about **Your strengths (e.g. APIs, UI design, backend development)**  
-- 📫 How to reach me: **your email**  
-- ⚡ Fun fact: **Something fun about you**
+- 🌱 I’m learning languages like(C,JAVASCRIPT,PYTHON,HTML,CSS)
+- 💬 Ask me about (Html,CSS,Python,C)  
+- 📫 How to reach me: agrimbandral662@gmail.com 
+- ⚡ Fun fact:If anything is not executed according to me,i dont stepback until it is executed as i want...
 
 ---
 
