@@ -35,7 +35,7 @@
 ### 🌐 Connect With Me  
 <p>
   <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ https://www.linkedin.com/404/
 </p>
 
 ---
