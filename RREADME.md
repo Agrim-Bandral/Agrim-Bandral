@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Agrim Bandral</h1>
 <h3 align="center">A passionate developer who loves building cool things</h3>
 
 <p align="center">
@@ -42,7 +42,31 @@
 ---
 
 ### ✨ Featured Projects  
-- 🔹 [**Project 1**](#) — Short description  
+- 🔹 [**Project 1**](Calculator) —A simple web-based calculator built using HTML and JavaScript that performs basic arithmetic operations like addition. It provides a user-friendly interface for quick calculations and helps demonstrate fundamental JavaScript concepts like DOM manipulation and event handling
+- 
+- <!DOCTYPE html>
+<html>
+<body>
+
+<input id="num1" type="number">
+<input id="num2" type="number">
+
+<button onclick="add()">Add</button>
+
+<p id="result"></p>
+
+<script>
+function add() {
+  let a = Number(document.getElementById("num1").value);
+  let b = Number(document.getElementById("num2").value);
+  document.getElementById("result").innerText = "Result: " + (a + b);
+}
+</script>
+
+</body>
+</html>
+
+
 - 🔹 [**Project 2**](#) — Short description  
 - 🔹 [**Project 3**](#) — Short description  
 
