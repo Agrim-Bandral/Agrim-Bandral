@@ -9,8 +9,7 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **Your current project**  
+### 🚀 About Me    
 - 🌱 I’m learning languages like(C,JAVASCRIPT,PYTHON,HTML,CSS)
 - 💬 Ask me about (Html,CSS,Python,C)  
 - 📫 How to reach me: agrimbandral662@gmail.com 
