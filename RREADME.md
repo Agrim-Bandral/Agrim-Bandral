@@ -35,7 +35,8 @@
 ### 🌐 Connect With Me  
 <p>
   <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
- https://www.linkedin.com/404/
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agrim%20Bandral-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agrim-bandral-820191380/)
 </p>
 
 ---
